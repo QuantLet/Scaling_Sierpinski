@@ -1,0 +1,18 @@
+Name of Quantlet: Scaling_Sierpinski
+
+Published in: Metis
+
+Description: 'Sierpinski plots the Sierpinski triangle'
+
+Keywords: scaling, topology, self-similar, mandelbrot, triangle, Sierpinski
+
+See also: Stable_Kelly_Rescaling, Stable_Kelly_LogDensityFinancials, Stable_Kelly_MomentDistribution
+Author: NW
+
+
+Submitted: 2019-12-29
+
+Datafile:
+
+
+Example: 1.png, sierp.png
